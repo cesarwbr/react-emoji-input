@@ -6,7 +6,6 @@
     "checkJs": true,
     "lib": ["ESNext", "dom", "dom.iterable", "scripthost"],
     "declaration": true,
-    "emitDeclarationOnly": true,
     "outDir": "./dist",
     "skipLibCheck": true,
     "esModuleInterop": true,
