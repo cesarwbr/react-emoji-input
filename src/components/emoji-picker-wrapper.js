@@ -88,8 +88,6 @@ const EmojiPickerWrapper = props => {
       ) {
         return;
       }
-
-      setShowPicker(false);
     }
 
     document.addEventListener("click", checkClickOutside);
